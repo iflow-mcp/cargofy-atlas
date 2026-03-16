@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * ATLAS MCP Server — stdio transport (v1.0)
  * All tools. Read-only access to logistics data.

@@ -1,0 +1,1 @@
+{"serverConfig": {"mcpServers": {"atlas": {"command": "npx", "args": ["-y", "@iflow-mcp/cargofy-atlas"], "values": {}}}}}
